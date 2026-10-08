@@ -1,0 +1,6 @@
+{
+  "name": "Royal Heirloom",
+  "description": "Bespoke digital wedding stationery suite and royal guest portal inspired by classical European matrimonial correspondence, gold-leaf crests, and wax-sealed folios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
